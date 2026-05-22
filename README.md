@@ -6,7 +6,7 @@ Repositorio con los certificados y capacitaciones completadas.
 ## Practicas Profesionales Supervisadas
 | Proyecto | Institución | Certificado |
 |-------|------------|-------------|
-| Diseño, evaluación y factibilidad de un sistema de dialisis peritoneal automatico bonaerense | IAR | [Ver certificado](./pCERIFICADO-PPS.pdf) |
+| Diseño, evaluación y factibilidad de un sistema de dialisis peritoneal automatico bonaerense | IAR | [Ver certificado](./CERTIFICADO-PPS.pdf) |
 
 ## Datos y Herramientas
 
