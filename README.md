@@ -3,6 +3,9 @@
 Repositorio con los certificados de cursos y capacitaciones completadas.
 
 ---
+## Practicas Profesionales Supervisadas
+
+| Proyecto de diseño, evaluación y factibilidad de un sistema de dialisis peritoneal automatico bonaerense | IAR | [Ver certificado](./pCERIFICADO-PPS.pdf) |
 
 ## Datos y Herramientas
 
@@ -23,6 +26,8 @@ Repositorio con los certificados de cursos y capacitaciones completadas.
 | Curso | Institución | Certificado |
 |-------|------------|-------------|
 | AI Fluency: Framework & Foundations | Anthropic | [Ver certificado](./ai-fluency-anthropic.pdf) |
+
+ 
 
 ---
 
