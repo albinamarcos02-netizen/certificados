@@ -1,6 +1,6 @@
 # 📄 Certificados y Cursos — Marcos Albina Sarubbi
 
-Repositorio con los certificados de cursos y capacitaciones completadas.
+Repositorio con los certificados y capacitaciones completadas.
 
 ---
 ## Practicas Profesionales Supervisadas
