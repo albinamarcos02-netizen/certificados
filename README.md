@@ -15,6 +15,7 @@ Repositorio con los certificados y capacitaciones completadas.
 | Power BI Básico | Santander Open Academy | [Ver certificado](./power-bi-basico-santander.pdf) |
 | Power BI Intermedio | Santander Open Academy | [Ver certificado](./power-bi-intermedio-santander.pdf) |
 | Fundamentos de Excel | Educación IT | [Ver certificado](./excel-educacionit.pdf) |
+| Excel para análisis de datos | ECA Capacitaciones| [Ver certificado](./Certificado-Excel-Analisis-Datos.pdf) |
 
 ## Programación
 
